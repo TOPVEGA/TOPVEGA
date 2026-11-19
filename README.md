@@ -24,6 +24,7 @@ My passion is developing automation tools, with a special focus on **Telegram bo
 - Continuously exploring new technologies in automation and cloud storage.
 - Ask me about **Python, Java, C#, Go, Databases, or Telegram Bots**.
 - Always available to collaborate on new ideas and exciting projects.
+- **Location:** Netherlands - Amsterdam
 
 ---
 
