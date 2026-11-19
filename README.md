@@ -4,9 +4,9 @@
 
 ### 🤖 مهندس برمجيات | متخصص في بناء البوتات والأنظمة المصغرة
 
-[![Profile Views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/your-username)
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Followers&style=social)](https://github.com/your-username)
-[![GitHub stars](https://img.shields.io/github/stars/your-username?label=Stars&style=social)](https://github.com/your-username)
+[![Profile Views](https://komarev.com/ghpvc/?username=TOPVEGA&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/TOPVEGA)
+[![GitHub followers](https://img.shields.io/github/followers/TOPVEGA?label=Followers&style=social)](https://github.com/TOPVEGA)
+[![GitHub stars](https://img.shields.io/github/stars/TOPVEGA?label=Stars&style=social)](https://github.com/TOPVEGA)
 
 </div>
 
@@ -57,11 +57,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TOPVEGA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TOPVEGA&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TOPVEGA&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -71,7 +71,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&row=1&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=TOPVEGA&theme=tokyonight&no-frame=true&row=1&column=6)
 
 </div>
 
@@ -104,24 +104,19 @@
 
 ---
 
-## 🔗 روابطي ومشاريعي
+## 🤝 تواصل معي
 
 <div align="center">
 
-### 📢 قناة مشاريعي المصغرة
+أنا دائماً متاح للتعاون في أفكار جديدة ومشاريع مثيرة! لا تتردد في التواصل.
+
 [![Projects Channel](https://img.shields.io/badge/قناة_المشاريع-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Logii3)
-
-### 🎵 قناة البوت الموسيقي والعلامة التجارية
 [![Music Bot](https://img.shields.io/badge/VegaOne-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vegaone)
-
-### 💬 جروب الدعم والمناقشات
 [![Support Group](https://img.shields.io/badge/جروب_الدعم-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GroupNIx)
 
-### 💻 حسابي على GitHub
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-
-### 📩 حسابي على تليجرام
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TOPVEGA)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:supportvega@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TOPVEGA)
 
 </div>
 
