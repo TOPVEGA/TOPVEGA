@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hello,+I+am+KIM;Software+Engineer;Bot+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hello,+I+am+KIM;Software+Engineer;Bot+Developer;Automation+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
@@ -14,19 +14,23 @@
 
 ---
 
-## About Me
+## 🌟 Welcome to My Digital World
 
-My passion is developing automation tools, with a special focus on **Telegram bots** and various software projects. I work on building smart and efficient solutions that bridge high performance with ease of use.
-
-- Currently working on bot projects and micro-systems.
-- Continuously exploring new technologies in automation and cloud storage.
-- Ask me about **Python, Java, C#, Go, Databases, or Telegram Bots**.
-- Always available to collaborate on new ideas and exciting projects.
-- **Location:** Netherlands - Amsterdam
+I'm **KIM**, a software engineer passionate about building smart automation tools, with a special focus on **Telegram bots** and innovative software solutions. I believe automation is not just code — it's the art of turning ideas into reality that works for you. I strive to build solutions that combine high performance with ease of use, with a constant focus on user experience and innovation.
 
 ---
 
-## Technical Skills
+## 👨‍💻 About Me
+
+- 🔭 Currently working on bot projects and micro-systems.
+- 🌱 Continuously exploring new technologies in automation and cloud storage.
+- 💬 Ask me about **Python, Java, C#, Go, Databases, or Telegram Bots**.
+- 🤝 Always available to collaborate on new ideas and exciting projects.
+- 📍 **Location:** Netherlands - Amsterdam.
+
+---
+
+## 🛠️ Technical Skills
 
 <div align="center">
 
@@ -34,9 +38,27 @@ My passion is developing automation tools, with a special focus on **Telegram bo
 
 </div>
 
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
 ---
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -48,7 +70,7 @@ My passion is developing automation tools, with a special focus on **Telegram bo
 
 ---
 
-## Achievements
+## 🏆 Achievements
 
 <div align="center">
 
@@ -58,25 +80,25 @@ My passion is developing automation tools, with a special focus on **Telegram bo
 
 ---
 
-## Specialization Areas
+## 🎯 Specialization Areas
 
 <table align="center">
 <tr>
 <td align="center" width="33%">
 
-### Telegram Bots
+### 🤖 Telegram Bots
 Building smart, multi-functional bots with full interaction and automation support.
 
 </td>
 <td align="center" width="33%">
 
-### Automation Tools
+### ⚙️ Automation Tools
 Developing scripts and tools that save time and increase productivity.
 
 </td>
 <td align="center" width="33%">
 
-### Data Management
+### 🗄️ Data Management
 Designing efficient databases and flexible cloud storage solutions.
 
 </td>
@@ -85,7 +107,7 @@ Designing efficient databases and flexible cloud storage solutions.
 
 ---
 
-## Connect with Me
+## 🤝 Connect with Me
 
 <div align="center">
 
@@ -101,10 +123,16 @@ Designing efficient databases and flexible cloud storage solutions.
 
 ---
 
+## 💡 Call for Collaboration
+
+Have a project idea or want to collaborate? I'm always open to new ideas and contributions to open-source projects. Feel free to reach out or open an issue in one of my repositories. Together, we can build something amazing!
+
+---
+
 <div align="center">
 
 ### "Automation is not just code; it is the art of turning ideas into reality that works for you."
 
-**Do not forget to check out my projects and explore what we can build together!**
+**Don't forget to check out my projects and explore what we can build together!**
 
 </div>
