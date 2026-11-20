@@ -18,7 +18,31 @@
 
 ---
 
-## 🌟 Welcome to My Digital World
+<h2 align="center">
+  <span style="display:inline-block; animation: slideIn 3s ease-in-out infinite alternate; font-size:1.5em; color:#A855F7;">
+    🌟 Welcome to My Digital World 🌟
+  </span>
+</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=Building+smart+automation+tools...;Telegram+bots+%26+software+solutions...;Turning+ideas+into+reality..." alt="Subtitle Animation" />
+</p>
+
+<style>
+@keyframes slideIn {
+  0% { transform: translateX(-30px); opacity: 0.7; }
+  100% { transform: translateX(30px); opacity: 1; }
+}
+@keyframes glowPulse {
+  0% { text-shadow: 0 0 5px #A855F7, 0 0 10px #A855F7; }
+  50% { text-shadow: 0 0 20px #A855F7, 0 0 30px #6A0DAD; }
+  100% { text-shadow: 0 0 5px #A855F7, 0 0 10px #A855F7; }
+}
+@keyframes fadeSlideUp {
+  0% { transform: translateY(20px); opacity: 0; }
+  100% { transform: translateY(0); opacity: 1; }
+}
+</style>
 
 I'm **KIM**, a software engineer passionate about building smart automation tools, with a special focus on **Telegram bots** and innovative software solutions. I believe automation is not just code — it's the art of turning ideas into reality that works for you. I strive to build solutions that combine high performance with ease of use, with a constant focus on user experience and innovation.
 
@@ -26,14 +50,24 @@ I'm **KIM**, a software engineer passionate about building smart automation tool
 
 ---
 
-## 👨‍💻 About Me
+<h2 align="center">
+  <span style="display:inline-block; animation: glowPulse 2.5s ease-in-out infinite, fadeSlideUp 1.5s ease-out; font-size:1.4em; color:#A855F7;">
+    👨‍💻 About Me 👨‍💻
+  </span>
+</h2>
 
-- 🔭 Currently working on bot projects and micro-systems.
-- 🌱 Continuously exploring new technologies in automation and cloud storage.
-- 💬 Ask me about **Python, Java, C#, Go, Databases, or Telegram Bots**.
-- 🤝 Always available to collaborate on new ideas and exciting projects.
-- 🏢 **Sole Founder & CEO** of the **VEGA** and **Logic** brands.
-- 📍 **Location:** Netherlands - Amsterdam.
+<div align="center">
+
+| 🔹 | Details |
+|:--:|:--------|
+| 🔭 | Currently working on bot projects and micro-systems. |
+| 🌱 | Continuously exploring new technologies in automation and cloud storage. |
+| 💬 | Ask me about **Python, Java, C#, Go, Databases, or Telegram Bots**. |
+| 🤝 | Always available to collaborate on new ideas and exciting projects. |
+| 🏢 | **Sole Founder & CEO** of the **VEGA** and **Logic** brands. |
+| 📍 | **Location:** Netherlands - Amsterdam. |
+
+</div>
 
 ---
 
