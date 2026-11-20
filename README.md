@@ -18,43 +18,27 @@
 
 ---
 
-<h2 align="center">
-  <span style="display:inline-block; animation: slideIn 3s ease-in-out infinite alternate; font-size:1.5em; color:#A855F7;">
-    🌟 Welcome to My Digital World 🌟
-  </span>
-</h2>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=A855F7&center=true&vCenter=true&width=500&lines=%F0%9F%8C%9F+Welcome+to+My+Digital+World+%F0%9F%8C%9F" alt="Welcome Animation" />
+  </a>
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=Building+smart+automation+tools...;Telegram+bots+%26+software+solutions...;Turning+ideas+into+reality..." alt="Subtitle Animation" />
+  I'm <b>KIM</b>, a software engineer passionate about building smart automation tools, with a special focus on <b>Telegram bots</b> and innovative software solutions. I believe automation is not just code — it's the art of turning ideas into reality that works for you. I strive to build solutions that combine high performance with ease of use, with a constant focus on user experience and innovation.
 </p>
 
-<style>
-@keyframes slideIn {
-  0% { transform: translateX(-30px); opacity: 0.7; }
-  100% { transform: translateX(30px); opacity: 1; }
-}
-@keyframes glowPulse {
-  0% { text-shadow: 0 0 5px #A855F7, 0 0 10px #A855F7; }
-  50% { text-shadow: 0 0 20px #A855F7, 0 0 30px #6A0DAD; }
-  100% { text-shadow: 0 0 5px #A855F7, 0 0 10px #A855F7; }
-}
-@keyframes fadeSlideUp {
-  0% { transform: translateY(20px); opacity: 0; }
-  100% { transform: translateY(0); opacity: 1; }
-}
-</style>
-
-I'm **KIM**, a software engineer passionate about building smart automation tools, with a special focus on **Telegram bots** and innovative software solutions. I believe automation is not just code — it's the art of turning ideas into reality that works for you. I strive to build solutions that combine high performance with ease of use, with a constant focus on user experience and innovation.
-
-**I am the sole owner, founder, and CEO of the VEGA and Logic brands.**
+<p align="center">
+  <b>I am the sole owner, founder, and CEO of the VEGA and Logic brands.</b>
+</p>
 
 ---
 
-<h2 align="center">
-  <span style="display:inline-block; animation: glowPulse 2.5s ease-in-out infinite, fadeSlideUp 1.5s ease-out; font-size:1.4em; color:#A855F7;">
-    👨‍💻 About Me 👨‍💻
-  </span>
-</h2>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=400&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+About+Me+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="About Me Animation" />
+  </a>
+</div>
 
 <div align="center">
 
