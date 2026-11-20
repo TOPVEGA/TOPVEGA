@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://files.catbox.moe/uqhsyi.jpg" alt="KIM Banner" width="100%" />
+</div>
+
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hello,+I+am+KIM;Software+Engineer;Bot+Developer;Automation+Enthusiast" alt="Typing SVG" />
   </a>
@@ -18,6 +22,8 @@
 
 I'm **KIM**, a software engineer passionate about building smart automation tools, with a special focus on **Telegram bots** and innovative software solutions. I believe automation is not just code — it's the art of turning ideas into reality that works for you. I strive to build solutions that combine high performance with ease of use, with a constant focus on user experience and innovation.
 
+**I am the sole owner, founder, and CEO of the VEGA and Logic brands.**
+
 ---
 
 ## 👨‍💻 About Me
@@ -26,7 +32,23 @@ I'm **KIM**, a software engineer passionate about building smart automation tool
 - 🌱 Continuously exploring new technologies in automation and cloud storage.
 - 💬 Ask me about **Python, Java, C#, Go, Databases, or Telegram Bots**.
 - 🤝 Always available to collaborate on new ideas and exciting projects.
+- 🏢 **Sole Founder & CEO** of the **VEGA** and **Logic** brands.
 - 📍 **Location:** Netherlands - Amsterdam.
+
+---
+
+## 🏷️ My Brands
+
+<div align="center">
+
+| Brand | Platform | Description |
+|:-----:|:--------:|:------------|
+| **VEGA** | [t.me/vegaone](https://t.me/vegaone) | Music & multi-purpose Telegram bot brand. |
+| **Logic** | [t.me/Logii3](https://t.me/Logii3) | Projects & development channel brand. |
+
+</div>
+
+> **Note:** I am the **sole owner, founder, and CEO** of both brands. All rights reserved.
 
 ---
 
@@ -111,8 +133,8 @@ Designing efficient databases and flexible cloud storage solutions.
 
 <div align="center">
 
-[![Projects Channel](https://img.shields.io/badge/Projects_Channel-6A0DAD?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Logii3)
-[![Music Bot](https://img.shields.io/badge/VegaOne-6A0DAD?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vegaone)
+[![Projects Channel — Logic](https://img.shields.io/badge/Logic_Projects_Channel-6A0DAD?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Logii3)
+[![VEGA — Music Bot](https://img.shields.io/badge/VEGA_One-6A0DAD?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vegaone)
 [![Support Group](https://img.shields.io/badge/Support_Group-6A0DAD?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GroupNIx)
 
 [![Telegram](https://img.shields.io/badge/Telegram-6A0DAD?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TOPVEGA)
