@@ -55,7 +55,11 @@
 
 ---
 
-## 🏷️ My Brands
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=400&lines=%F0%9F%8F%B7%EF%B8%8F+My+Brands+%F0%9F%8F%B7%EF%B8%8F" alt="My Brands Animation" />
+  </a>
+</div>
 
 <div align="center">
 
@@ -70,7 +74,11 @@
 
 ---
 
-## 🛠️ Technical Skills
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=450&lines=%F0%9F%9B%A0%EF%B8%8F+Technical+Skills+%F0%9F%9B%A0%EF%B8%8F" alt="Technical Skills Animation" />
+  </a>
+</div>
 
 <div align="center">
 
@@ -98,7 +106,11 @@
 
 ---
 
-## 📊 GitHub Statistics
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=450&lines=%F0%9F%93%8A+GitHub+Statistics+%F0%9F%93%8A" alt="GitHub Stats Animation" />
+  </a>
+</div>
 
 <div align="center">
 
@@ -110,7 +122,11 @@
 
 ---
 
-## 🏆 Achievements
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=400&lines=%F0%9F%8F%86+Achievements+%F0%9F%8F%86" alt="Achievements Animation" />
+  </a>
+</div>
 
 <div align="center">
 
@@ -120,7 +136,11 @@
 
 ---
 
-## 🎯 Specialization Areas
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=450&lines=%F0%9F%8E%AF+Specialization+Areas+%F0%9F%8E%AF" alt="Specialization Animation" />
+  </a>
+</div>
 
 <table align="center">
 <tr>
@@ -147,7 +167,11 @@ Designing efficient databases and flexible cloud storage solutions.
 
 ---
 
-## 🤝 Connect with Me
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=450&lines=%F0%9F%A4%9D+Connect+with+Me+%F0%9F%A4%9D" alt="Connect Animation" />
+  </a>
+</div>
 
 <div align="center">
 
@@ -163,9 +187,15 @@ Designing efficient databases and flexible cloud storage solutions.
 
 ---
 
-## 💡 Call for Collaboration
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=%F0%9F%92%A1+Call+for+Collaboration+%F0%9F%92%A1" alt="Collaboration Animation" />
+  </a>
+</div>
 
-Have a project idea or want to collaborate? I'm always open to new ideas and contributions to open-source projects. Feel free to reach out or open an issue in one of my repositories. Together, we can build something amazing!
+<div align="center">
+  Have a project idea or want to collaborate? I'm always open to new ideas and contributions to open-source projects. Feel free to reach out or open an issue in one of my repositories. Together, we can build something amazing!
+</div>
 
 ---
 
